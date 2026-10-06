@@ -1,0 +1,84 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Совещание команды",
+            "description": "Еженедельное совещание по статусу проекта",
+            "startDate": "2026-10-06",
+            "endDate": "2026-10-06",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "type": "meeting"
+        },
+        {
+            "id": 2,
+            "title": "Дедлайн по дизайну",
+            "description": "Сдать макеты главной страницы",
+            "startDate": "2026-10-08",
+            "endDate": "2026-10-08",
+            "startTime": null,
+            "endTime": null,
+            "type": "deadline"
+        },
+        {
+            "id": 3,
+            "title": "Отпуск Иванова",
+            "description": "Основной отпуск, 14 дней",
+            "startDate": "2026-10-10",
+            "endDate": "2026-10-23",
+            "startTime": null,
+            "endTime": null,
+            "type": "holiday"
+        },
+        {
+            "id": 4,
+            "title": "Ревью кода",
+            "description": "Проверить pull request #42",
+            "startDate": "2026-10-12",
+            "endDate": "2026-10-12",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "type": "task"
+        },
+        {
+            "id": 5,
+            "title": "Презентация клиенту",
+            "description": "Показать промежуточные результаты",
+            "startDate": "2026-10-15",
+            "endDate": "2026-10-15",
+            "startTime": "16:00",
+            "endTime": "17:00",
+            "type": "meeting"
+        },
+        {
+            "id": 6,
+            "title": "Хакатон",
+            "description": "Корпоративный хакатон, 24 часа",
+            "startDate": "2026-10-20",
+            "endDate": "2026-10-21",
+            "startTime": null,
+            "endTime": null,
+            "type": "task"
+        },
+        {
+            "id": 7,
+            "title": "Дедлайн по бэкенду",
+            "description": "Завершить REST API v2",
+            "startDate": "2026-10-25",
+            "endDate": "2026-10-25",
+            "startTime": null,
+            "endTime": null,
+            "type": "deadline"
+        },
+        {
+            "id": 8,
+            "title": "День рождения Петрова",
+            "description": "Поздравить коллегу! 🎂",
+            "startDate": "2026-10-18",
+            "endDate": "2026-10-18",
+            "startTime": null,
+            "endTime": null,
+            "type": "holiday"
+        }
+    ]
+}
